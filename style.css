@@ -111,8 +111,8 @@ input:checked + #slider::before{
   content: "🌙";
 }
 .calculate{
-  color:  #2196F3;
-  background-color: green;
+  color:  white;
+  background-color:  #2196F3;
   padding: 15px;
 }
 .reset{
