@@ -4,7 +4,7 @@ body{
   padding: 0;background-color: white;
 }
 .theme{
-  box-shadow: 0 0 10px grey ; 
+  box-shadow: 0 0 18px grey ; 
   padding-right: 50px;
   background-color: white;
   line-height: 2px;
@@ -70,6 +70,8 @@ body.dark-mode #result{
 }
 body.dark-mode .theme{
   background-color: black;
+  box-shadow: 0 0 18px grey ; 
+  
 }
 .switch{
   position: relative;
