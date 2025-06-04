@@ -68,7 +68,7 @@ body.dark-mode #result{
    color: white;
 }
 body.dark-mode .theme{
-  border-bottom: 1px solid green;
+  background-color: black;
 }
 .switch{
   position: relative;
