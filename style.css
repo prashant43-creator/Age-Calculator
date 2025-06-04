@@ -4,6 +4,7 @@ body{
   padding: 0;background-color: white;
 }
 .theme{
+  box-shadow: 0 0 10px grey ; 
   padding-right: 50px;
   background-color: white;
   line-height: 2px;
